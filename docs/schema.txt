@@ -1,0 +1,27 @@
+{:conlangs
+  [{:id   0
+    :name "wqle"
+    :authors [0]
+    :concepts
+      [{:id   0
+        :name "noun"
+        :doc  "md"
+        :exercises
+          [{:id   0
+            :name "identify the noun"
+            :doc  "md"
+            :sentences
+              [{:id      0
+                :native  "wqle tai"
+                :foreign "past speech"}]}]}]
+    :lexicon
+      [{:id      0
+        :type    "noun"
+        :native  [{:w "wqle" :d false}]
+        :foreign [{:w "speech" :d false}]}]}]
+ :users
+  [{:id   0
+    :email "phunanon@gmail.com"
+    :name "Patrick"
+    :pass []
+    :salt []}]}
